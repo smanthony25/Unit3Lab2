@@ -1,0 +1,2 @@
+1. The recursive function fails due to the fact that it has to remember each number and does not want to remember too many numbers due to the risk of filling up ram
+2. Recursion could be bad for large projects because whenever it has to remember so many numbers it fills up the ram and does not allow it to be as efficient 
